@@ -26,3 +26,5 @@ The script is set up to use a specific export of the MIMIC notes database. Essen
 Thanks!  
 Marzyeh  
 # command-basics
+# sprint-1
+# sprint -- 1
